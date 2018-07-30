@@ -3,6 +3,8 @@
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 
+Project created using [`nwb`](https://github.com/insin/nwb)
+
 ## Demo
 
 To build the project locally, run:
